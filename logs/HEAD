@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 c52d1f1b8b47f906b8bf129521db85f0b25ba316 Martin <hormixa.com.ar@gmail.com> 1751380729 -0300	commit (initial): Añadido tokens/ a .gitignore
+c52d1f1b8b47f906b8bf129521db85f0b25ba316 0000000000000000000000000000000000000000 Martin <hormixa.com.ar@gmail.com> 1751381121 -0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 c52d1f1b8b47f906b8bf129521db85f0b25ba316 Martin <hormixa.com.ar@gmail.com> 1751381121 -0300	Branch: renamed refs/heads/master to refs/heads/main
+c52d1f1b8b47f906b8bf129521db85f0b25ba316 d4503fc9fe40c774d5c884ac598bec12f10070b7 Martin <hormixa.com.ar@gmail.com> 1751401461 -0300	commit: Subo archivos index.js, package.json y package-lock.json
+d4503fc9fe40c774d5c884ac598bec12f10070b7 1182fa86bda2b53b4651cabb81c916270f25134c Martin <hormixa.com.ar@gmail.com> 1751403665 -0300	commit: Agregado script de start para Render
+1182fa86bda2b53b4651cabb81c916270f25134c 3c344bbfff46cb7e3e41a88e5c62da556e2895c5 Martin <hormixa.com.ar@gmail.com> 1751404258 -0300	commit: Fix: evitar descarga de Chromium en Render
+3c344bbfff46cb7e3e41a88e5c62da556e2895c5 6e79511b6fc0b0fcac5617ec1cb976b52b2e57f9 Martin <hormixa.com.ar@gmail.com> 1751405043 -0300	commit: Fix postinstall for Render
+6e79511b6fc0b0fcac5617ec1cb976b52b2e57f9 8c03e303624dbcc33d71c551f36db14636214d79 Martin <hormixa.com.ar@gmail.com> 1751405073 -0300	commit: Ajustes para Render deployment
