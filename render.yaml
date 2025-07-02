@@ -1,7 +1,9 @@
 services:
-  - type: web
+  - type: worker
     name: whatsapp-bot
-    env: node
+    runtime: node
+    repo: https://github.com/hormixa/whatsapp-bot-render
+    branch: main
     plan: free
     buildCommand: npm install
-    startCommand: npm start
+    startCommand: node index.js
